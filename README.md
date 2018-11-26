@@ -2,7 +2,6 @@
 
 Windows:
 https://git-scm.com/download/win
-(jest wersja portable)
 
 Linux:
 https://git-scm.com/download/linux
